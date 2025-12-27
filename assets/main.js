@@ -31,7 +31,9 @@
   });
   // pdf js
   function downloadCV() {
-    const pdfUrl = "assets/Resume Rani Chourasiya 2026.pdf";
+    // const pdfUrl = "assets/Resume Rani Chourasiya 2026.pdf";
+    const pdfUrl = "assets/Rani Chourasiya 2026.pdf";
+
 
     // Open PDF only in a new tab
     window.open(pdfUrl, "_blank", "noopener,noreferrer");
